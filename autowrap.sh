@@ -2,8 +2,8 @@
 
 # this script is fully llm generated
 
-#fallback to genTriangleLogic
-FUNC_NAME=${1:-genTriangleLogic}
+#fallback to genSincWave
+FUNC_NAME=${1:-genSincWave}
 
 echo "Generating C++ wrapper for ${FUNC_NAME}..."
 
